@@ -462,3 +462,9 @@ img.profile {
   height: 250px;
   width: 250px;
 }
+
+img.limit-height {
+  height: 260px;
+  width: auto;
+  margin: 0 auto;
+}
